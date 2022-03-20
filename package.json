@@ -1,0 +1,14 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "[![license](https://img.shields.io/badge/license-undefined-blue.svg)](https://shields.io/)   ## Table Of Contenct   - [Description](#description)   - [Installation](#installation)   - [Usage](#usage)   - [Contributions](#contributions)   - [Testing](#testing)   - [Additional Info](#additional-info)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  }
+}
