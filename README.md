@@ -48,3 +48,6 @@ After successfully answering all the questions they will receive the message sho
 After the message on the folder directory tree, the user will notice a new ReadME.md file shown below:
 
 ![Screen Shot 2022-06-12 at 1 49 59 PM](https://user-images.githubusercontent.com/73037339/173246554-53af497b-527a-4da7-876a-c9497efb30fd.png)
+
+
+Simply right click the ReadME.md file and select "Open Preview" and the users Resume will be displayed with the information provided by the user!
